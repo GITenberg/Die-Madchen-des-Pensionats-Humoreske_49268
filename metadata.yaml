@@ -1,9 +1,13 @@
 _repo: Die-Madchen-des-Pensionats-Humoreske_49268
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Sundblad, G.
     gutenberg_agent_id: '44012'
     url: http://www.gutenberg.org/2009/agents/44012
+covers:
+- cover_type: archival
+  image_path: 49268-h/images/cover.jpg
 creator:
   author:
     agent_name: Eckstein, Ernst
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44011
     wikipedia: http://de.wikipedia.org/wiki/Ernst_Eckstein_(Schriftsteller)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49268#Die-Madchen-des-Pensionats-Humoreske
 gutenberg_issued: '2015-06-24'
 gutenberg_type: Text
 identifiers:
